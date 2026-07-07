@@ -305,18 +305,12 @@ Future enhancements include:
 
 
 
+## 👩‍💻 Author
 
-\## 👩‍💻 **Author**
+**Sakshi Naik**
 
-
-
-\*\*Sakshi Naik\*\*
-
-
-
-Artificial Intelligence \& Data Science Student
-
-
+Bachelor of Engineering – Artificial Intelligence & Data Science
 
 Passionate about Data Analytics, Data Science, and solving business problems using data.
+GitHub: https://github.com/Sakshi-naik03
 
