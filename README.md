@@ -1,5 +1,15 @@
 \# 📊 **Customer Churn Analysis using SQL \& Python**
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-teal)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+---
+
 
 
 An end-to-end Data Analysis project focused on understanding customer churn in a telecommunications company through SQL, Python, Exploratory Data Analysis (EDA), and business-driven insights.
